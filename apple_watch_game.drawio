@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="yq89S0tYVoiDMzDDlFWA">
-    <mxGraphModel dx="2382" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,8 +249,25 @@
             <mxPoint x="634" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0URZYP5nAtcyijPC4Oau-35" value="Flappy Bird meets Chrome Dino Game&lt;div&gt;Levels are designed, rather than randomly Generated&lt;br&gt;The Game loop comes from Mastery of level like Megaman&lt;/div&gt;&lt;div&gt;Level Select like Mega Man&lt;br&gt;6 bosses like first mega&lt;/div&gt;&lt;div&gt;End of Level has you jack in to Giant Robot Boss which changes the mechanics for a specific min game&lt;/div&gt;&lt;div&gt;Tapping screen puts it in to slow mo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0URZYP5nAtcyijPC4Oau-35" value="Flappy Bird meets Chrome Dino Game&lt;div&gt;Levels are designed, rather than randomly Generated&lt;br&gt;The Game loop comes from Mastery of level like Megaman&lt;/div&gt;&lt;div&gt;Level Select like Mega Man&lt;br&gt;6 Stages to choose from&lt;/div&gt;&lt;div&gt;End of Level has you jack in to Giant Robot Boss which changes the mechanics for a specific mini game&lt;/div&gt;&lt;div&gt;Such as firing a mini gun with watch dial, or dodging back and forth while tumbling through space&lt;/div&gt;&lt;div&gt;Tapping screen puts it in to slow mo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1140" width="750" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0URZYP5nAtcyijPC4Oau-36" value="Engulfs Self in Flames&lt;br&gt;And Dives Towards&lt;br&gt;Earth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="633" y="763" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0URZYP5nAtcyijPC4Oau-37" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0URZYP5nAtcyijPC4Oau-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="570" y="650" as="sourcePoint" />
+            <mxPoint x="640" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0URZYP5nAtcyijPC4Oau-39" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="550" y="635" as="sourcePoint" />
+            <mxPoint x="610" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
