@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="XTMSRbrgKVGLjsH9X8_s">
-    <mxGraphModel dx="928" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,6 +271,48 @@
         </mxCell>
         <mxCell id="sXvcuLgOEi0MP0SyH3_x-38" value="Coal Mine Game&lt;div&gt;likeo360&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1640" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="1800" width="273" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="718" y="1840" width="205" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.647;exitY=0.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sXvcuLgOEi0MP0SyH3_x-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="1860" as="sourcePoint" />
+            <mxPoint x="890" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.647;exitY=0.071;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="1820" as="sourcePoint" />
+            <mxPoint x="740" y="1835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-47" value="Orphan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="805.5" y="1912.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="795.5" y="1800" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="833" y="1800" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790.5" y="1830" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1887" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1870" width="3" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="sXvcuLgOEi0MP0SyH3_x-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="805.5" y="1857" width="3" height="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
