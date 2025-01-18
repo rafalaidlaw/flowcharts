@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="XTMSRbrgKVGLjsH9X8_s">
-    <mxGraphModel dx="924" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
         <mxCell id="sXvcuLgOEi0MP0SyH3_x-68" value="Can I have Some More Sir?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;pour the right amount of cough syrup into&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bowl&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1195" y="1700" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LpHF3o8fXJXzqIlNo_tZ-36" value="Orphan choir mini game&lt;div&gt;can&#39;t play if turbuculoujs&lt;/div&gt;&lt;div&gt;tap rythm game&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LpHF3o8fXJXzqIlNo_tZ-36" value="Orphan choir mini game&lt;div&gt;can&#39;t play if turbuculoujs&lt;/div&gt;&lt;div&gt;tap rythm game&lt;br&gt;similar to final fantasy theatrythm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="46" y="840" width="614" height="200" as="geometry" />
         </mxCell>
       </root>
