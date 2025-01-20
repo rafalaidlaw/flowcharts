@@ -7,8 +7,20 @@
         <mxCell id="s3SAf-UdSn6TOK4YolAB-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="730" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="s3SAf-UdSn6TOK4YolAB-2" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;VIDEOGAMES! MODDED GAMEBOYS! 3D PRINTED ACCESSORIES!&lt;/h1&gt;&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&amp;nbsp;PICK, CHOOSE, SELECT AND REFUSE!&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="790" height="120" as="geometry" />
+        <mxCell id="s3SAf-UdSn6TOK4YolAB-2" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;VIDEOGAMES! MODDED GAMEBOYS! 3D PRINTED ACCESSORIES&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3SAf-UdSn6TOK4YolAB-3" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&amp;nbsp;PICK, CHOOSE, SELECT AND REFUSE!&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="680" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3SAf-UdSn6TOK4YolAB-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3SAf-UdSn6TOK4YolAB-5" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;RETRO MOD GOD&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="680" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s3SAf-UdSn6TOK4YolAB-6" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 32px; color: rgb(255, 196, 246);&quot;&gt;RETRO MOD GOD&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277" y="69" width="680" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
