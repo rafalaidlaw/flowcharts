@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Page-1" id="0FqAyG7qyWvGr8D5NbYA">
-    <mxGraphModel dx="924" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,14 +25,17 @@
         <mxCell id="kUoyLtrpSKkgsi-hgrao-1" value="threejs elements&lt;div&gt;porfolio: replace hansoplo pixel art with rotating tgetradon with multiple skills on planes such as js ts and c#&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3d representrations of games and gameboys on store front&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="530" width="290" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="-HDXUuPS-Vxp154dQ28b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HDXUuPS-Vxp154dQ28b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="540" width="30" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-HDXUuPS-Vxp154dQ28b-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HDXUuPS-Vxp154dQ28b-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="540" width="115" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-HDXUuPS-Vxp154dQ28b-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-HDXUuPS-Vxp154dQ28b-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="670" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1mErilV9hB_WaKFDdVqH-2" value="3D Printed Business Card&lt;div&gt;for shop&lt;br&gt;&lt;br&gt;CAn use as insert to protect stiockers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="320" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
