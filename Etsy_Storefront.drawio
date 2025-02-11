@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="0FqAyG7qyWvGr8D5NbYA">
-    <mxGraphModel dx="2382" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,9 +35,9 @@
           <mxGeometry x="410" y="670" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1mErilV9hB_WaKFDdVqH-2" value="3D Printed Business Card&lt;div&gt;for shop&lt;br&gt;&lt;br&gt;CAn use as insert to protect stiockers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="390" width="320" height="270" as="geometry" />
+          <mxGeometry x="600" y="360" width="320" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="uZDd7-1moT__J_TVB_JK-1" value="Play dino game to get discounts.... if you get to many discounts send to 404 you have caused RETROMODGOD to go bankrupt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uZDd7-1moT__J_TVB_JK-1" value="Play dino game to get discounts.... if you get to many discounts send to 404 you have caused RETROMODGOD to go bankrupt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="60" width="490" height="60" as="geometry" />
         </mxCell>
       </root>
